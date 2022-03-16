@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @suprenum or Adilzhan
 - 👀 I’m interested in design, front-end and creative development.
-- 🌱 I’m currently learning everything i think will be useful!
+- 🌱 I’m currently learning WebGL and everything i think will be useful!
 - 📫 How to reach me: adilzhan.good@gmail.com
